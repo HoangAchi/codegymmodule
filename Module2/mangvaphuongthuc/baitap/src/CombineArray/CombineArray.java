@@ -1,60 +1,45 @@
 package CombineArray;
 import java.util.Scanner;
 public class CombineArray {
-    public static Scanner scanner = new Scanner(System.in);
-
     public static void main(String[] args) {
-        int[] arr1 = null;
-        int[] arr2 = null;
-        int[] arr3 = null;
-
-        System.out.println("input array first ");
-        arr1 = input(arr1);
-        System.out.println("input array secondary ");
-        arr2 = input(arr2);
-        arr3 = merge(arr1, arr2);
-        show(arr3);
-    }
-
-    public static int[] input(int[] arr) {
-        System.out.print("Enter the element number of the array: ");
-        int inputarr = scanner.nextInt();
-        arr = new int[inputarr];
-        System.out.print("Enter the elements of the array: \n");
-        for (int i = 0; i < inputarr; i++) {
-            System.out.printf("a[%d] = ", i);
-            arr[i] = scanner.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("input the element number of the array 1:");
+        int input = scanner.nextInt();
+        int[] arr1 = new int[input];
+        System.out.println("input the elements of the array 1");
+        for (int i = 0 ; i<input;i++){
+            System.out.println("Enter element" + i);
+            arr1[i] = scanner.nextInt();
         }
-        return arr;
-    }
+        System.out.println("input the element number of the array 2:");
+        int input1 = scanner.nextInt();
+        int[] arr2 = new int[input1];
 
-    public static int[] merge(int[] arr1, int[] arr2) {
-        int aIndex = arr1.length - 1;
-        int bIndex = arr2.length - 1;
-        int cIndex = arr1.length + arr2.length - 1;
-        int[] arr3 = new int[cIndex + 1];
-
-
-        for (int i = cIndex; i > -1; i--) {
-            if (aIndex > -1 && bIndex > -1) {
-                if (arr1[aIndex] > arr2[bIndex]) {
-                    arr3[i] = arr1[aIndex--];
-                } else {
-                    arr3[i] = arr2[bIndex--];
-                }
-            } else if (bIndex == -1) {
-                arr3[i] = arr1[aIndex--];
-            } else if (aIndex == -1) {
-                arr3[i] = arr2[bIndex--];
-            }
+        System.out.println("input the elements of the array 2");
+        for (int j = 0 ; j<input1;j++){
+            System.out.println("Enter element" + j);
+            arr2[j] = scanner.nextInt();
         }
-        return arr3;
-    }
 
-    public static void show(int[] arr) {
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ");
+        int size = arr1.length + arr2.length;
+        int[] array = new int[size];
+        System.out.println("Array 1:");
+        for (int item : arr1) {
+            System.out.print(item + "\t");
+        }
+
+        System.out.println();
+        System.out.println("Array 2:");
+        for (int item : arr2) {
+            System.out.print(item + "\t");
+        }
+
+        System.arraycopy(arr1, 0, array, 0, arr1.length);
+        System.arraycopy(arr2, 0, array, arr2.length, size - arr2.length);
+        System.out.println();
+        System.out.println("Array = Array 1 + Array 2:");
+        for (int value : array) {
+            System.out.print(value + "\t");
         }
     }
-
 }
