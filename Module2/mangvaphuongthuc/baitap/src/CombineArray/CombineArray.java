@@ -35,7 +35,7 @@ public class CombineArray {
         }
 
         System.arraycopy(arr1, 0, array, 0, arr1.length);
-        System.arraycopy(arr2, 0, array, arr2.length, size - arr2.length);
+        System.arraycopy(arr2, 0, array, arr1.length, size - arr1.length);
         System.out.println();
         System.out.println("Array = Array 1 + Array 2:");
         for (int value : array) {
