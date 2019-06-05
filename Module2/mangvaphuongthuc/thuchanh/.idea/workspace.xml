@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83d7fc17-2265-4ecf-a4ea-20a1f651c22f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../lopvadoituongtronglop/thuchanh/src/Rectangle/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap/src/CountString/CountString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap/src/DeleteArray/DeleteArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap/src/MinArray/MinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap/src/SumNumberColumn/SumNumberColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap/src/SumSquareMatrix/SumSquareMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayIndexOutOfBoundsException/ArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lopvadoituongtronglop/thuchanh/src/Rectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lopvadoituongtronglop/thuchanh/src/Rectangle/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baitap/out/production/baitap/CombineArray/CombineArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/out/production/baitap/CombineArray/CombineArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baitap/src/CombineArray/CombineArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/src/CombineArray/CombineArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/out/production/baitap/META-INF/baitap.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" afterDir="false" />
@@ -41,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayIndexOutOfBoundsException/ArrayIndexOutOfBoundsException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -49,6 +40,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GameMineSweeper/GameMineSweeper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="16" column="33" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -130,6 +130,12 @@
               <item name="thuchanh" type="b2602c69:ProjectViewProjectNode" />
               <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GameMineSweeper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thuchanh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ReverseTheArray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -142,7 +148,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baitap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lopvadoituongtronglop/Baitap" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -252,16 +258,17 @@
       <workItem from="1559639438986" duration="193000" />
       <workItem from="1559704269771" duration="345000" />
       <workItem from="1559704896860" duration="151000" />
+      <workItem from="1559708662915" duration="133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8164000" />
+    <option name="totallyTimeSpent" value="8297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.26340482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.26675603" />
       <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.25670242" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,13 +365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameMineSweeper/GameMineSweeper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MinArray/MinArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -386,6 +386,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameMineSweeper/GameMineSweeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="16" column="33" selection-end-line="54" />
         </state>
       </provider>
     </entry>
