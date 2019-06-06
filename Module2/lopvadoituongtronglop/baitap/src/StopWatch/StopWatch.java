@@ -19,7 +19,7 @@ public class StopWatch {
         return (this.endtime-this.starttime);
     }
     public static void main(String[] args) {
-        System.out.println("Đo thời gian thực thi của thuật toán sắp xếp chọn 100.000 số từ biến cho trước");
+        System.out.println("Measure the execution time of the sorting algorithm to choose 100,000 numbers from the given variable");
         int[] array = new int[100000];
         Random random = new Random();
         for (int i = 0; i < array.length; i++) {

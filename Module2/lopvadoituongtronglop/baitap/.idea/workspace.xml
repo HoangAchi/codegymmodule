@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c56bbbac-805d-4992-bf00-ac22633618ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassQuadraticEquation/ClassQuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fan/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StopWatch/StopWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/Rectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/Rectangle/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mangvaphuongthuc/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mangvaphuongthuc/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mangvaphuongthuc/baitap/out/production/baitap/IllegalTriangleException/IllegalTriangleException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../mangvaphuongthuc/baitap/out/production/baitap/IllegalTriangleException/IllegalTriangleException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mangvaphuongthuc/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mangvaphuongthuc/thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/out/production/baitap/META-INF/baitap.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c56bbbac-805d-4992-bf00-ac22633618ff" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,12 +114,6 @@
               <item name="baitap" type="b2602c69:ProjectViewProjectNode" />
               <item name="baitap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Fan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baitap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baitap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="StopWatch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -141,6 +124,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -220,16 +204,15 @@
       <workItem from="1559709120801" duration="224000" />
       <workItem from="1559709368985" duration="1070000" />
       <workItem from="1559716737088" duration="3974000" />
-      <workItem from="1559720852320" duration="4289000" />
+      <workItem from="1559720852320" duration="4921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9557000" />
+    <option name="totallyTimeSpent" value="10189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -240,7 +223,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
