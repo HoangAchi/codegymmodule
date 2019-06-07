@@ -9,7 +9,7 @@ public class SquareTest {
         System.out.println(square);
 
         square = new Square(5.8, "yellow", true);
+        square.howToColor();
         System.out.println(square);
-        System.out.println(square.howToColor());
     }
 }
