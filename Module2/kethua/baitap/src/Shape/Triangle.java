@@ -1,4 +1,4 @@
-package Shape;
+package shape;
 
 public class Triangle extends  Shape{
     protected double side1 =1 ,side2 =1 ,side3 =1;
@@ -34,10 +34,13 @@ public class Triangle extends  Shape{
         this.side3 = side3;
     }
     public double getArea(){
-        return Math.sqrt((side1+side2+side3)*(side1+side2-side3)*(side2+side3-side1)*(side3+side1-side2))/4;
+        return Math.sqrt((this.side1+this.side2+this.side3)
+                *(this.side1+this.side2-this.side3)
+                *(this.side2+this.side3-this.side1)
+                *(this.side3+this.side1-this.side2))/4;
     }
     public double  getPerimeter(){
-        return side1+side2+side3;
+        return this.side1+this.side2+this.side3;
     }
 
     @Override

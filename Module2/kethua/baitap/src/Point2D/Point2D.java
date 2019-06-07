@@ -1,4 +1,4 @@
-package Point2D;
+package point2D;
 
 public class Point2D {
     protected float x;

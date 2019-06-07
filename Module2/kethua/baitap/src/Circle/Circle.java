@@ -1,4 +1,4 @@
-package Circle;
+package circle;
 
 public class Circle {
     protected double radius;
@@ -25,14 +25,14 @@ public class Circle {
         this.color = color;
     }
     protected double getArea(){
-        return Math.PI * radius * radius;
+        return Math.PI * this.radius * this.radius;
     }
 
     @Override
     public String toString() {
         return "Radius "
-                + getRadius()
+                + this.getRadius()
                 + " Color "
-                + getColor();
+                + this.getColor();
     }
 }

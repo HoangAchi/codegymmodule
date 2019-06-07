@@ -1,4 +1,4 @@
-package Point;
+package point;
 
 public class MoveablePoint extends Point {
     protected float xspeed;

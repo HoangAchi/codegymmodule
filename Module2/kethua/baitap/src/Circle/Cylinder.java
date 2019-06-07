@@ -1,28 +1,28 @@
-package Circle;
+package circle;
 
 public class Cylinder extends Circle {
-    protected int Height;
+    protected int height;
     public Cylinder(){}
-    public Cylinder(double radius, String color ,int Height){
+    public Cylinder(double radius, String color ,int height){
         super(radius,color);
-        this.Height=Height;
+        this.height=height;
     }
 
     public int getHeight() {
-        return Height;
+        return height;
     }
 
     public void setHeight(int height) {
-        Height = height;
+        this.height = height;
     }
     protected double getVolume(){
-        return Math.PI * Math.pow(radius,2) * Height;
+        return Math.PI * Math.pow(radius,2) * this.height;
     }
 
     @Override
     public String toString() {
         return super.toString()
                 +" Height"
-                +getHeight();
+                +this.getHeight();
     }
 }
