@@ -1,4 +1,4 @@
-package shape;
+package colorable;
 
 public class Shape {
     private String color = "green";

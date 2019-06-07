@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9910af2-c7c3-416d-b121-2db4a3a7a528" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animal/AbstractAndInterfaceTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitap/src/Shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/src/Shape/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitap/src/Shape/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/src/Shape/CircleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitap/src/Shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/src/Shape/Rectangle.java" afterDir="false" />
@@ -13,26 +12,6 @@
       <change beforePath="$PROJECT_DIR$/../baitap/src/Shape/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/src/Shape/ShapeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitap/src/Shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/src/Shape/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitap/src/Shape/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/src/Shape/SquareTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractAndInterfaceTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Edible/Edible.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit/Apple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit/Fruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit/Orange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/CircleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/CircleComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/CircleComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/CircleComparatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/ComparableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/ComparableCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/ComparableCircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/ComparableCircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/ShapeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/SquareTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -156,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/src/animal/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="e#95#96#0" expanded="true" />
                 <element signature="e#141#142#0" expanded="true" />
@@ -262,6 +241,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,15 +271,16 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../baitap" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -356,16 +337,17 @@
       <workItem from="1559815147087" duration="850000" />
       <workItem from="1559880292490" duration="204000" />
       <workItem from="1559880514027" duration="750000" />
+      <workItem from="1559883425989" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7308000" />
+    <option name="totallyTimeSpent" value="7327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26675603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -494,39 +476,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/animal/Apple.java">
+    <entry file="file://$PROJECT_DIR$/src/shape/CircleComparatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/animal/Orange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/animal/Fruit.java">
+    <entry file="file://$PROJECT_DIR$/src/shape/CircleComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/animal/AbstractAndInterfaceTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -549,27 +512,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shape/CircleComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shape/CircleComparatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/shape/CircleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/animal/AbstractAndInterfaceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -580,6 +533,35 @@
           <folding>
             <element signature="e#185#186#0" expanded="true" />
             <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/animal/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/animal/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/animal/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
           </folding>
         </state>
       </provider>

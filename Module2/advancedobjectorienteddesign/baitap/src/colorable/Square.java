@@ -1,7 +1,7 @@
-package shape;
+package colorable;
 
-public class Square extends Rectangle implements Resizeable{
-    private double side =1.0;
+public class Square extends  Rectangle implements Colorable{
+    protected double side = 2;
     public Square() {
     }
 
@@ -18,8 +18,8 @@ public class Square extends Rectangle implements Resizeable{
     }
 
     public void setSide(double side) {
-        setWidth(side);
-        setLength(side);
+        super.setWidth(side);
+        super.setLength(side);
     }
 
     @Override
@@ -40,7 +40,7 @@ public class Square extends Rectangle implements Resizeable{
                 + super.toString();
     }
     @Override
-    public void resize(double percent){
-        this.side += (this.side * percent / 100);
+    public String howToColor(){
+         return "Color all four sides";
     }
 }

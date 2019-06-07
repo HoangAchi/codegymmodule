@@ -1,4 +1,4 @@
-package shape;
+package colorable;
 
 public class CircleTest {
     public static void main(String[] args) {
@@ -9,9 +9,6 @@ public class CircleTest {
         System.out.println(circle);
 
         circle = new Circle(3.5, "indigo", false);
-        System.out.println(circle);
-
-        circle.resize(Math.random()*100);
         System.out.println(circle);
     }
 }

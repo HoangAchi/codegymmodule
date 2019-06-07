@@ -1,4 +1,4 @@
-package shape;
+package colorable;
 
 public class RectangleTest {
     public static void main(String[] args) {
@@ -8,9 +8,7 @@ public class RectangleTest {
         rectangle = new Rectangle(2.3, 5.8);
         System.out.println(rectangle);
 
-        rectangle = new Rectangle(2.5, 3.8, "orange", true);
-        System.out.println(rectangle);
-        rectangle.resize((Math.random()*100)-1);
+        rectangle = new Rectangle(2.3, 3.8, "orange", true);
         System.out.println(rectangle);
     }
 }

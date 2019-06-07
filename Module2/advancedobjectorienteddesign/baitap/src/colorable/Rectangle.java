@@ -1,13 +1,13 @@
-package shape;
+package colorable;
 
-public class Rectangle extends Shape implements Resizeable {
+public class Rectangle extends Shape {
     private double width = 1.0;
     private double length = 1.0;
 
-    public Rectangle() {
+    protected Rectangle() {
     }
 
-    public Rectangle(double width, double length) {
+    protected Rectangle(double width, double length) {
         this.width = width;
         this.length = length;
     }
@@ -50,10 +50,5 @@ public class Rectangle extends Shape implements Resizeable {
                 + getLength()
                 + ", which is a subclass of "
                 + super.toString();
-    }
-    @Override
-    public void resize(double percent){
-        this.width += (this.width * percent / 100);
-        this.length += (this.length * percent / 100);
     }
 }

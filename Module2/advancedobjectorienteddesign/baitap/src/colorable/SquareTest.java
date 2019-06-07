@@ -1,4 +1,4 @@
-package shape;
+package colorable;
 
 public class SquareTest {
     public static void main(String[] args) {
@@ -10,7 +10,6 @@ public class SquareTest {
 
         square = new Square(5.8, "yellow", true);
         System.out.println(square);
-        square.resize(Math.random()*100);
-        System.out.println(square);
+        System.out.println(square.howToColor());
     }
 }
