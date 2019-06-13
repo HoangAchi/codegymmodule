@@ -2,62 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbf9d0f4-99b7-433c-ad8b-20bd8708dbab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Resizeable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Resizeable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/ResizeableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/ResizeableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/ShapeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/src/Shape/SquareTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/AbstractAndInterfaceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/AbstractAndInterfaceTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Animal/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Animal/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Animal/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Animal/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Edible/Edible.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Edible/Edible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Fruit/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Fruit/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Fruit/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Fruit/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Fruit/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Fruit/Orange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/CircleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/CircleComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/CircleComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/CircleComparatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/ComparableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/ComparableCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/ComparableCircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/ComparableCircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/ShapeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/src/Shape/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/AbstractAndInterfaceTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Chicken.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Chicken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Edible/Edible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Fruit/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Fruit/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Fruit/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/RectangleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ShapeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ShapeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/out/production/baitap/mylist/MyArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/out/production/baitap/mylist/MyArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylinkedlist/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylinkedlist/TestMyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cleancodevarefactoring/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cleancodevarefactoring/baitap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Circle/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Circle/CircleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Circle/Cylinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Circle/CylinderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Point/MobeablePointTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Point/MoveablePoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Point/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Point/PointTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Point2D/Point2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Point2D/Point2DTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Point2D/Point3D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Point2D/Point3DTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Shape/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Shape/ShapeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Shape/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baitap/Shape/TriangleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle/CylinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle/CylinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point/MobeablePointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point/MobeablePointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point/MoveablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point/MoveablePoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point/PointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point/PointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point2D/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point2D/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mangvaphuongthuc/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mangvaphuongthuc/baitap/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/shape/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
+            <state relative-caret-position="286">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#280#281#0" expanded="true" />
@@ -94,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/src/shape/ShapeTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -102,9 +76,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/shape/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="352">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
+                <element signature="e#378#379#0" expanded="true" />
                 <element signature="e#406#407#0" expanded="true" />
                 <element signature="e#438#439#0" expanded="true" />
                 <element signature="e#466#467#0" expanded="true" />
@@ -116,8 +91,6 @@
                 <element signature="e#678#679#0" expanded="true" />
                 <element signature="e#720#721#0" expanded="true" />
                 <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
-                <element signature="e#973#974#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/src/shape/TriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -212,23 +185,6 @@
               <item name="baitap" type="b2602c69:ProjectViewProjectNode" />
               <item name="baitap" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="baitap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baitap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baitap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baitap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="circle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baitap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baitap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shape" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -240,7 +196,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -346,18 +302,19 @@
       <option name="presentableId" value="Default" />
       <updated>1559869817963</updated>
       <workItem from="1559869819979" duration="5225000" />
-      <workItem from="1559879381086" duration="408000" />
+      <workItem from="1559879381086" duration="903000" />
+      <workItem from="1560218062380" duration="3000" />
+      <workItem from="1560414261785" duration="57000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5633000" />
+    <option name="totallyTimeSpent" value="6188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -517,7 +474,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shape/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="286">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#280#281#0" expanded="true" />
@@ -535,22 +492,23 @@
     <entry file="file://$PROJECT_DIR$/src/shape/ShapeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shape/TriangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shape/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="352">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
+            <element signature="e#378#379#0" expanded="true" />
             <element signature="e#406#407#0" expanded="true" />
             <element signature="e#438#439#0" expanded="true" />
             <element signature="e#466#467#0" expanded="true" />
@@ -562,8 +520,6 @@
             <element signature="e#678#679#0" expanded="true" />
             <element signature="e#720#721#0" expanded="true" />
             <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
           </folding>
         </state>
       </provider>
