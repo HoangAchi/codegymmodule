@@ -7,19 +7,13 @@ public class CombineArray {
         int input = scanner.nextInt();
         int[] arr1 = new int[input];
         System.out.println("input the elements of the array 1");
-        for (int i = 0 ; i<input;i++){
-            System.out.println("Enter element" + i);
-            arr1[i] = scanner.nextInt();
-        }
+        locationArray(scanner, input, arr1);
         System.out.println("input the element number of the array 2:");
         int input1 = scanner.nextInt();
         int[] arr2 = new int[input1];
 
         System.out.println("input the elements of the array 2");
-        for (int j = 0 ; j<input1;j++){
-            System.out.println("Enter element" + j);
-            arr2[j] = scanner.nextInt();
-        }
+        locationArray(scanner, input1, arr2);
 
         int size = arr1.length + arr2.length;
         int[] array = new int[size];
@@ -40,6 +34,13 @@ public class CombineArray {
         System.out.println("Array = Array 1 + Array 2:");
         for (int value : array) {
             System.out.print(value + "\t");
+        }
+    }
+
+    private static void locationArray(Scanner scanner, int input, int[] arr1) {
+        for (int i = 0; i < input; i++) {
+            System.out.println("Enter element" + i);
+            arr1[i] = scanner.nextInt();
         }
     }
 }

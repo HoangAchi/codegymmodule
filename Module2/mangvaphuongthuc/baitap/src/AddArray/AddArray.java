@@ -6,6 +6,10 @@ public class AddArray {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter index:");
         int index = scanner.nextInt();
+        add(arr, scanner, index);
+    }
+
+    private static void add(int[] arr, Scanner scanner, int index) {
         if (index <=1 && index>=arr.length-1){
             System.out.println("cannot insert element into array");
         }else {

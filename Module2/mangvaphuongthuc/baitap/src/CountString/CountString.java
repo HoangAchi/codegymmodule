@@ -12,6 +12,10 @@ public class CountString {
         System.out.println("Input any char: ");
         signself = scanner.next().charAt(0);
 
+        count(onestring, signself, count);
+    }
+
+    private static void count(String onestring, char signself, int count) {
         for (int i = 0; i < onestring.length(); i++) {
             if (onestring.charAt(i) == signself) {
                 count++;

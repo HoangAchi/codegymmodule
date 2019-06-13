@@ -6,6 +6,10 @@ public class FindTheValueInTheArray {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a name’s student:");
         String input_name = scanner.nextLine();
+        exists(students, input_name);
+    }
+
+    private static void exists(String[] students, String input_name) {
         boolean isExist = false;
         for (int i = 0; i < students.length; i++) {
             if (students[i].equals(input_name)) {

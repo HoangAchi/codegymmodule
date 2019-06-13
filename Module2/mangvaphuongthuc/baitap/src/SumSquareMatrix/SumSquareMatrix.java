@@ -27,11 +27,9 @@ public class SumSquareMatrix {
             System.out.println("\n");
         }
 
-        // các phần tử nằm trên đường chéo chính
-        // là các phần tử có chỉ số dòng = chỉ số cột
+
         for (int i = 0; i < rank; i++) {
             for (int j = 0; j < rank; j++) {
-                // kiểm tra nếu i == j thì mới tính tổng
                 if (i == j) {
                     sum += arr[i][j];
                 }

@@ -3,10 +3,13 @@ import java.util.Scanner;
 public class TemperatureConversionProgram {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        setChoice(input);
+    }
+
+    private static void setChoice(Scanner input) {
+        int choice;
         double fahrenheit;
         double celsius;
-        int choice;
-
         do {
             System.out.println("Menu.");
             System.out.println("1. Fahrenheit to Celsius");
@@ -31,6 +34,7 @@ public class TemperatureConversionProgram {
             }
         } while (choice != 0);
     }
+
     public static double celsiusToFahrenheit(double celsius) {
         double fahrenheit = (9.0 / 5) * celsius + 32;
         return fahrenheit;
