@@ -31,39 +31,6 @@
       <change beforePath="$PROJECT_DIR$/../../cleancodevarefactoring/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cleancodevarefactoring/baitap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddArray/AddArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddArray/AddArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CombineArray/CombineArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CombineArray/CombineArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountString/CountString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountString/CountString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeleteArray/DeleteArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeleteArray/DeleteArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SumSquareMatrix/SumSquareMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumSquareMatrix/SumSquareMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/CountsStudentpassingTheExam/CountsStudentpassingTheExam.class" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/CountsStudentpassingTheExam/CountsStudentpassingTheExam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/ArrayIndexOutOfBoundsException/ArrayIndexOutOfBoundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/ArrayIndexOutOfBoundsException/ArrayIndexOutOfBoundsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/CountsStudentpassingTheExam/CountsStudentpassingTheExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/CountsStudentpassingTheExam/CountsStudentpassingTheExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/FindTheValueInTheArray/FindTheValueInTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/FindTheValueInTheArray/FindTheValueInTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/MaxArray/MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/MaxArray/MaxArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/ReverseTheArray/ReverseTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/ReverseTheArray/ReverseTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/TemperatureConversionProgram/TemperatureConversionProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/TemperatureConversionProgram/TemperatureConversionProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/src/CurrencyConversionApplication/CurrencyConversionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/src/CurrencyConversionApplication/CurrencyConversionApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/src/DisplaysPrimeNumbers/DisplaysPrimeNumbersLessThan100.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/src/DisplaysPrimeNumbers/DisplaysPrimeNumbersLessThan100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/src/Show20PrimeNumbersFirst/Show20PrimeNumbersFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/src/Show20PrimeNumbersFirst/Show20PrimeNumbersFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/src/ShowShape/ShowShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/baitap/src/ShowShape/ShowShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/out/production/thuchanh/ApplicationToCalculateLoanInterest/ApplicationToCalculateLoanInterest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/out/production/thuchanh/ApplicationToCalculateLoanInterest/ApplicationToCalculateLoanInterest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/out/production/thuchanh/CheckLeapYear/CheckLeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/out/production/thuchanh/CheckLeapYear/CheckLeapYear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/out/production/thuchanh/Debug/Debug.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/out/production/thuchanh/Debug/Debug.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/out/production/thuchanh/FindTheGreatestCommonDivisor/FindTheGreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/out/production/thuchanh/FindTheGreatestCommonDivisor/FindTheGreatestCommonDivisor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/out/production/thuchanh/META-INF/thuchanh.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/ApplicationToCalculateLoanInterest/ApplicationToCalculateLoanInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/ApplicationToCalculateLoanInterest/ApplicationToCalculateLoanInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/CalculateBodyWeight/CalculateBodyWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/CalculateBodyWeight/CalculateBodyWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/CheckLeapYear/CheckLeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/CheckLeapYear/CheckLeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/Debug/Debug.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/Debug/Debug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/FindTheGreatestCommonDivisor/FindTheGreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/FindTheGreatestCommonDivisor/FindTheGreatestCommonDivisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/Opearator/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/Opearator/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/Prime/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/Prime/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/SoleveTheFirstOrderEquation/SolveTheFirstOrderEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/src/SoleveTheFirstOrderEquation/SolveTheFirstOrderEquation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -274,7 +241,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lopvadoituongtronglop/thuchanh" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -395,16 +362,15 @@
       <workItem from="1559705048862" duration="3472000" />
       <workItem from="1559720739543" duration="111000" />
       <workItem from="1560413515274" duration="41000" />
-      <workItem from="1560413628229" duration="260000" />
+      <workItem from="1560413628229" duration="473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24423000" />
+    <option name="totallyTimeSpent" value="24636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15549597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
