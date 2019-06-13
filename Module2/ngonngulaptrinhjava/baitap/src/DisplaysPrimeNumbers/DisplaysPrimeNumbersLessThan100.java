@@ -2,6 +2,10 @@ package DisplaysPrimeNumbers;
 
 public class DisplaysPrimeNumbersLessThan100 {
     public static void main(String[] args) {
+        checkPrimeNumberLessThan100();
+    }
+
+    private static void checkPrimeNumberLessThan100() {
         for (int number = 0; number <= 100; number++) {
             if (number < 2){}
             else {

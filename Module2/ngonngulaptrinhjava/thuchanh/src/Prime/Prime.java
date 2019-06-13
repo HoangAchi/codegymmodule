@@ -6,6 +6,10 @@ public class Prime {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number:");
         int number = scanner.nextInt();
+        checkPrime(number);
+    }
+
+    private static void checkPrime(int number) {
         if (number < 2)
             System.out.println(number + " is not a prime");
         else {

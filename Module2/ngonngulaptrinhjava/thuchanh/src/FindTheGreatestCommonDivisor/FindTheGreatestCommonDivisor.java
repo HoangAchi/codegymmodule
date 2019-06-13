@@ -10,6 +10,10 @@ public class FindTheGreatestCommonDivisor {
         b = nhap.nextInt();
         a = Math.abs(a);
         b = Math.abs(b);
+        findTheCommonDivisor(a, b);
+    }
+
+    private static void findTheCommonDivisor(int a, int b) {
         if (a == 0 || b == 0)
             System.out.println("No greatest common factor");
         while (a != b) {

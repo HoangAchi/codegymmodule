@@ -10,6 +10,10 @@ public class Operator {
         width = scanner.nextFloat();
         System.out.println("Enter height: ");
         height = scanner.nextFloat();
+        caculate(width, height);
+    }
+
+    private static void caculate(float width, float height) {
         float area = width * height;
         System.out.println("Area is: " + area);
     }

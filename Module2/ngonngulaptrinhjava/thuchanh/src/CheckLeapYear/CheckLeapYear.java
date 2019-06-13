@@ -9,6 +9,21 @@ public class CheckLeapYear {
         int year = scanner.nextInt();
         boolean isLeapYear = false;
 
+        isLeapYear = isLeapYear(year, isLeapYear);
+
+        checkLeapYear(year, isLeapYear);
+
+    }
+
+    private static void checkLeapYear(int year, boolean isLeapYear) {
+        if(isLeapYear){
+            System.out.printf("%d is a leap year", year);
+        } else {
+            System.out.printf("%d is NOT a leap year", year);
+        }
+    }
+
+    private static boolean isLeapYear(int year, boolean isLeapYear) {
         boolean isDivisibleBy4 = year % 4 == 0;
         if(isDivisibleBy4){
             boolean isDivisibleBy100 = year % 100 == 0;
@@ -21,12 +36,6 @@ public class CheckLeapYear {
                 isLeapYear = true;
             }
         }
-
-        if(isLeapYear){
-            System.out.printf("%d is a leap year", year);
-        } else {
-            System.out.printf("%d is NOT a leap year", year);
-        }
-
+        return isLeapYear;
     }
 }

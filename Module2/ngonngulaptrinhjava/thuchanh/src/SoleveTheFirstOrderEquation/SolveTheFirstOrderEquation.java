@@ -12,6 +12,10 @@ public class SolveTheFirstOrderEquation {
         double b = scanner.nextDouble();
         System.out.print("c: ");
         double c = scanner.nextDouble();
+        checkFirstOrderEquation(a, b, c);
+    }
+
+    private static void checkFirstOrderEquation(double a, double b, double c) {
         if (a != 0) {
             double solution = -b / a;
             System.out.printf("The solution is: %f!", solution);

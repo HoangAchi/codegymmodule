@@ -8,11 +8,15 @@ public class ApplicationToCalculateLoanInterest {
         System.out.println("Enter number of months: ");
         int month = input.nextInt();
         System.out.println("Enter annual interest rate in percentage: ");
-        double interset_rate = input.nextDouble();
-        double total_interset = 0;
+        double intersetRate = input.nextDouble();
+        double totalInterset = 0;
+        loanInterestCalculator(money, month, intersetRate, totalInterset);
+    }
+
+    private static void loanInterestCalculator(double money, int month, double intersetRate, double totalInterset) {
         for(int i = 0; i < month; i++){
-            total_interset = money * (interset_rate/100)/12 * 3;
+            totalInterset = money * (intersetRate/100)/12 * 3;
         }
-        System.out.println("Total of interset: " + total_interset);
+        System.out.println("Total of interset: " + totalInterset);
     }
 }

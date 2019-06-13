@@ -13,9 +13,13 @@ public class Debug {
         double b = scanner.nextDouble();
         System.out.print("input c: ");
         double c = scanner.nextDouble();
+        firstOrderEquation(a, b, c);
+    }
+
+    private static void firstOrderEquation(double a, double b, double c) {
         if (a != 0) {
             double solution = -b / a;
-            System.out.printf(" The solution is: %f!", solution);
+            System.out.printf(" The solution is: %f!\n", solution);
         }
 
         if (a != 0) {

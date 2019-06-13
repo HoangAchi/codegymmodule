@@ -1,6 +1,11 @@
 package ShowShape;
 import java.util.Scanner;
 public class ShowShape {
+    public static final int CONSTANT_RECTANGLE = 1;
+    public static final int CONSTANT_SQUARE_TRIANGLE = 2;
+    public static final int CONSTANT_ISOSCELES_TRIANGLE = 3;
+    public static final int CONSTANT_EXIT = 4;
+
     public static void main(String[] args) {
         int choice;
         Scanner input = new Scanner(System.in);
@@ -12,15 +17,16 @@ public class ShowShape {
         System.out.println("Enter your choice: ");
         choice = input.nextInt();
         switch (choice){
-            case 1:
+            case CONSTANT_RECTANGLE:
                 for (int i =0; i<3;i++){
                     for (int j=0;j<5;j++){
+
                         System.out.print("* ");
                     }
                     System.out.println(" ");
                 }
                 break;
-            case 2:
+            case CONSTANT_SQUARE_TRIANGLE:
                 for (int i =0; i<5;i++){
                     for (int j=0;j<i+1;j++){
                         System.out.print("* ");
@@ -28,7 +34,7 @@ public class ShowShape {
                     System.out.println(" ");
                 }
                 break;
-            case 3:
+            case CONSTANT_ISOSCELES_TRIANGLE:
                 for (int i =6; i>0;i--){
                     for (int j=0;j<i-1;j++){
                         System.out.print("* ");
@@ -36,7 +42,7 @@ public class ShowShape {
                     System.out.println(" ");
                 }
                 break;
-            case 4:
+            case CONSTANT_EXIT:
                 System.exit(4);
             default:
                 System.out.println("No choice!");

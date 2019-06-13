@@ -5,6 +5,10 @@ public class Show20PrimeNumbersFirst {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number:");
         int number = scanner.nextInt();
+        checkNumber(number);
+    }
+
+    private static void checkNumber(int number) {
         int count = 0;
         int N =2;
         while (count<number) {
@@ -15,6 +19,7 @@ public class Show20PrimeNumbersFirst {
             N++;
         }
     }
+
     public static boolean isPrimeNumber(int number){
         if (number<2){
             return false;
