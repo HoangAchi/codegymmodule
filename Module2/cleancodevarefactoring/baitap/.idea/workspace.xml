@@ -26,15 +26,7 @@
       <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/out/production/baitap/mylist/MyArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/out/production/baitap/mylist/MyArrayListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TennisGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TennisGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TennisGameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/calculator/CalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/calculator/CalcutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/calculator/CalcutorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/cylinder/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/cylinder/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/cylinder/CylinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/cylinder/CylinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/fizzbuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/fizzbuzz/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/fizzbuzz/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/fizzbuzz/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" afterDir="false" />
@@ -54,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TennisGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            <state relative-caret-position="330">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -63,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TennisGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
+            <state relative-caret-position="506">
               <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -136,10 +128,11 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -188,7 +181,8 @@
       <workItem from="1560227260873" duration="1880000" />
       <workItem from="1560235910111" duration="410000" />
       <workItem from="1560236366701" duration="873000" />
-      <workItem from="1560391018235" duration="15000" />
+      <workItem from="1560391018235" duration="406000" />
+      <workItem from="1560408705863" duration="54000" />
     </task>
     <servers />
   </component>
@@ -204,13 +198,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3178000" />
+    <option name="totallyTimeSpent" value="3623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -245,20 +238,20 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/TennisGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TennisGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
+        <state relative-caret-position="506">
           <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TennisGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>

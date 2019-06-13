@@ -2,24 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ecbe472-9609-48d0-b986-806c84a9ce09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/src/mylist/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/src/mylist/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/test/src/introducingthelist/MyAbstractList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/test/src/introducingthelist/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/test/src/introducingthelist/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/test/src/introducingthelist/TestMyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylinkedlist/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylinkedlist/TestMyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylist/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylist/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap/src/TennisGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap/src/TennisGameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator/CalcutorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cylinder/CylinderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fizzbuzz/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fizzbuzz/FizzBuzzTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/AbstractAndInterfaceTests.class" beforeDir="false" />
@@ -42,9 +24,14 @@
       <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ShapeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ShapeTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Square.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/out/production/baitap/mylist/MyArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/out/production/baitap/mylist/MyArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylinkedlist/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylinkedlist/TestMyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kethua/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kethua/thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mangvaphuongthuc/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mangvaphuongthuc/baitap/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/calculator/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="440">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -88,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1232">
+            <state relative-caret-position="1188">
               <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cylinder/CylinderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="88">
               <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -193,8 +180,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,9 +189,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baitap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -328,6 +316,7 @@
       <workItem from="1560227030359" duration="89000" />
       <workItem from="1560227230686" duration="29000" />
       <workItem from="1560236339892" duration="25000" />
+      <workItem from="1560414331995" duration="2000" />
     </task>
     <servers />
   </component>
@@ -364,12 +353,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2520000" />
+    <option name="totallyTimeSpent" value="2522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -404,10 +394,31 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cylinder/CylinderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="440">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/calculator/CalcutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -427,34 +438,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzTest.java">
+    <entry file="file://$PROJECT_DIR$/src/cylinder/CylinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        <state relative-caret-position="88">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/calculator/CalcutorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
