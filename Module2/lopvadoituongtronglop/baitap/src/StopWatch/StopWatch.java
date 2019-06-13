@@ -27,6 +27,15 @@ public class StopWatch {
         }
         StopWatch watch = new StopWatch();
         watch.getStartTime();
+
+        timeArray(array);
+
+        watch.getEndTime();
+        long timeWatch = watch.getElapsedTime();
+        System.out.println("Thời gian thực thi là: "+timeWatch);
+    }
+
+    private static void timeArray(int[] array) {
         int  temp;
         for  ( int  i =  0 ; i <array.length -  1 ; i ++) {
             for  ( int  j =  0 ; j <array.length -  1  - i; j ++) {
@@ -37,8 +46,5 @@ public class StopWatch {
                 }
             }
         }
-        watch.getEndTime();
-        long timeWatch = watch.getElapsedTime();
-        System.out.println("Thời gian thực thi là: "+timeWatch);
     }
 }
