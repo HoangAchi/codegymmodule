@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1827537f-d4e1-40e9-a3a9-2f1dc82f3ebf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/AbstractAndInterfaceTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Chicken.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Chicken.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Tiger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Edible/Edible.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Fruit/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Fruit/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Fruit/Orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/RectangleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ShapeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ShapeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baitap/out/production/baitap/mylist/MyArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/out/production/baitap/mylist/MyArrayListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mylinkedlist/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mylinkedlist/TestMyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cleancodevarefactoring/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cleancodevarefactoring/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ngonngulaptrinhjava/thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cleancodevarefactoring/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cleancodevarefactoring/thuchanh/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,7 +93,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -128,7 +100,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -190,16 +162,17 @@
       <updated>1560134388585</updated>
       <workItem from="1560134390319" duration="595000" />
       <workItem from="1560408778639" duration="254000" />
+      <workItem from="1560761195323" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="849000" />
+    <option name="totallyTimeSpent" value="878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -256,17 +229,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mylist/MyListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mylist/MyList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mylist/MyListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>

@@ -2,53 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddcac01e-d21b-4044-83a5-d01d327bbed4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/AbstractAndInterfaceTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Chicken.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Chicken.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Animal/Tiger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Edible/Edible.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Fruit/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Fruit/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Fruit/Orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleComparatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/CircleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ComparableCircleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/RectangleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ShapeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/ShapeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../advancedobjectorienteddesign/thuchanh/out/production/thuchanh/Shape/SquareTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/out/production/baitap/mylist/MyArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/baitap/out/production/baitap/mylist/MyArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylinkedlist/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cautrucdulieuvagiaithuat/thuchanh/src/mylinkedlist/TestMyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cleancodevarefactoring/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cleancodevarefactoring/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kethua/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lopvadoituongtronglop/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrencyConversionApplication/CurrencyConversionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrencyConversionApplication/CurrencyConversionApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DisplaysPrimeNumbers/DisplaysPrimeNumbersLessThan100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DisplaysPrimeNumbers/DisplaysPrimeNumbersLessThan100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Show20PrimeNumbersFirst/Show20PrimeNumbersFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Show20PrimeNumbersFirst/Show20PrimeNumbersFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShowShape/ShowShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShowShape/ShowShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/ApplicationToCalculateLoanInterest/ApplicationToCalculateLoanInterest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/ApplicationToCalculateLoanInterest/ApplicationToCalculateLoanInterest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/CheckLeapYear/CheckLeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/CheckLeapYear/CheckLeapYear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/Debug/Debug.class" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/Debug/Debug.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/FindTheGreatestCommonDivisor/FindTheGreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/FindTheGreatestCommonDivisor/FindTheGreatestCommonDivisor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/META-INF/thuchanh.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/ApplicationToCalculateLoanInterest/ApplicationToCalculateLoanInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/ApplicationToCalculateLoanInterest/ApplicationToCalculateLoanInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/CalculateBodyWeight/CalculateBodyWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/CalculateBodyWeight/CalculateBodyWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/CheckLeapYear/CheckLeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/CheckLeapYear/CheckLeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/Debug/Debug.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/Debug/Debug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/FindTheGreatestCommonDivisor/FindTheGreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/FindTheGreatestCommonDivisor/FindTheGreatestCommonDivisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/Opearator/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/Opearator/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/Prime/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/Prime/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh/src/SoleveTheFirstOrderEquation/SolveTheFirstOrderEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/SoleveTheFirstOrderEquation/SolveTheFirstOrderEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cleancodevarefactoring/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cleancodevarefactoring/thuchanh/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +17,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,8 +58,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +74,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,7 +83,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mangvaphuongthuc/thuchanh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -242,16 +198,17 @@
       <workItem from="1559697441558" duration="19000" />
       <workItem from="1559709350100" duration="17000" />
       <workItem from="1560410728129" duration="553000" />
+      <workItem from="1560763521017" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13284000" />
+    <option name="totallyTimeSpent" value="13330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1621984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16420911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
