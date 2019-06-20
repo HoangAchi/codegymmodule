@@ -1,4 +1,4 @@
-use mydb;
+use classicmodels;
 
 select * from customers;
 
@@ -29,9 +29,10 @@ select customernumber, contactlastname, contactfirstname, phone, city
 from customers 
 order by contactfirstname asc;
 
-select top(10) customernumber, contactlastname, contactfirstname, phone, city 
+select customernumber, contactlastname, contactfirstname, phone, city 
 from customers 
-order by contactfirstname desc ;
+order by contactfirstname desc 
+limit 10;
 
 select count(country) as 'Số khách hàng số ở France' 
 from customers 
