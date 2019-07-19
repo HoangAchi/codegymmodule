@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="io.spring.javaformat:spring-javaformat-formatter:0.0.15" type="repository">
+    <properties maven-id="io.spring.javaformat:spring-javaformat-formatter:0.0.15" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/spring/javaformat/spring-javaformat-formatter/0.0.15/spring-javaformat-formatter-0.0.15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/spring/javaformat/spring-javaformat-formatter-eclipse/0.0.15/spring-javaformat-formatter-eclipse-0.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
