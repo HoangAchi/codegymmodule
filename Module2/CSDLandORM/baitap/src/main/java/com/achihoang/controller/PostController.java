@@ -84,4 +84,17 @@ public class PostController {
         postService.remove(post.getId());
         return "redirect:posts";
     }
+
+    @GetMapping("/view-post/{id}")
+    public ModelAndView showView(@PathVariable Long id){
+        Post post = postService.findById(id);
+        if (post != null){
+            ModelAndView modelAndView = new ModelAndView("/post/view");
+            modelAndView.addObject("post",post);
+            return modelAndView;
+        } else {
+            ModelAndView modelAndView = new ModelAndView("/error.404");
+            return modelAndView;
+        }
+    }
 }

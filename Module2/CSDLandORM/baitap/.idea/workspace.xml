@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3044d426-ec52-4ee5-ba2e-d556036122b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/achihoang/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/achihoang/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/achihoang/service/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/achihoang/service/CustomerServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/production/danhsachkhachhang/com/achihoang/service/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/production/danhsachkhachhang/com/achihoang/service/CustomerServiceImpl.class" afterDir="false" />
@@ -52,11 +54,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/achihoang/controller/PostController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+            <state relative-caret-position="338">
+              <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="294">
+              <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -78,6 +80,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-176">
               <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/view.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -114,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/achihoang/service/PostService.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/edit.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/delete.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/view.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/list.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/achihoang/controller/PostController.java" />
       </list>
@@ -268,6 +280,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spingcontroller/thuchanh/uploadfile" />
@@ -388,18 +401,18 @@
       <updated>1563757946155</updated>
       <workItem from="1563757948359" duration="3322000" />
       <workItem from="1563770503360" duration="1131000" />
-      <workItem from="1563777405836" duration="5569000" />
+      <workItem from="1563777405836" duration="6909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10022000" />
+    <option name="totallyTimeSpent" value="11362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -410,7 +423,7 @@
       <window_info anchor="bottom" id="Application Servers" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -556,13 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/edit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-176">
@@ -570,13 +576,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/achihoang/controller/PostController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        <state relative-caret-position="338">
+          <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/post/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
         </state>
       </provider>
     </entry>
