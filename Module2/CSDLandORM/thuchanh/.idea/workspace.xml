@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a323531b-9b4d-450e-b031-5a0c04f0408d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/baitap/tiente/src/controllers/CurrencyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/baitap/tiente/web/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/baitap/tiente/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/baitap/tudien/src/controllers/DictionaryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/baitap/tudien/src/models/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/baitap/tudien/src/services/DictionaryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/baitap/tudien/web/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/thuchanh/src/controllers/GreetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/thuchanh/web/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/thuchanh/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/Blog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/Blog/.idea/libraries/mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/Blog/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/Blog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/Blog/src/controller/HomeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/connect-DB-MVC/connect-DB-MVC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/.idea/dictionaries/PLH.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/.idea/libraries/Hibernate_5_4_2_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/.idea/libraries/mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/common/utils/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/achihoang/service/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/achihoang/service/CustomerServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/production/danhsachkhachhang/com/achihoang/service/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/production/danhsachkhachhang/com/achihoang/service/CustomerServiceImpl.class" afterDir="false" />
@@ -34,6 +13,25 @@
       <change beforePath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/out/production/danhsachsanpham/com/codegym/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/out/production/danhsachsanpham/com/codegym/service/ProductServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/web/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/web/product/list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVCmodel/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVCmodel/thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/Blog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/0_create_database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/1_use_database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/2_create_table_categories.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/3_create_table_posts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/4_create_table_users.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/5_create_table_comments.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/6_alter_table_posts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/7__alter_table_comments.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/src/controller/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/Blog/src/controller/HomeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/event/src/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/event/src/model/ConnectDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/event/src/service/CategoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/event/src/service/ICategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/common/utils/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/common/utils/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spingcontroller/thuchanh/uploadfile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spingcontroller/thuchanh/uploadfile/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -117,7 +115,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#793#794#0" expanded="true" />
@@ -144,8 +142,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/service/impl/CustomerServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="132">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#574#575#0" expanded="true" />
@@ -164,12 +162,36 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/impl/CustomerRepositoryImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="372">
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#0#24#1" expanded="true" />
                 <element signature="e#0#40#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/CustomerRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/ProvinceRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -243,10 +265,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="730" />
-    <option name="height" value="690" />
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -256,6 +278,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -392,15 +415,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spingcontroller/baitap/caculator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -505,33 +528,25 @@
       <option name="presentableId" value="Default" />
       <updated>1563518615806</updated>
       <workItem from="1563518617981" duration="3381000" />
+      <workItem from="1563790862974" duration="62000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3381000" />
+    <option name="totallyTimeSpent" value="3443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.3286119" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.3286119" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
@@ -539,16 +554,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" weight="0.3295302" />
-      <window_info anchor="right" id="Database" weight="0.3295302" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -716,16 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/ProvinceRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/formatter/ProvinceFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -744,13 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="95" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -789,32 +796,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/CustomerRepository.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="682">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/service/impl/CustomerServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="132">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#574#575#0" expanded="true" />
@@ -829,10 +821,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/ProvinceRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/CustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/impl/CustomerRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="372">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#0#24#1" expanded="true" />

@@ -7,39 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20e1ac1a-76cf-4145-b09f-0e7239223a50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/achihoang/controller/CustomerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/achihoang/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/achihoang/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/achihoang/service/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/customer/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/web/product/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/web/product/delete.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/web/product/edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/web/product/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calculator/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calculator/src/CalculatorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/src/CalculatorServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/controller/ProductServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/service/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/service/ProductSeviceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuchanh/tiente/web/converter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanh/tiente/web/converter.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuchanh/tiente/web/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanh/tiente/web/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuchanh/tudien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanh/tudien/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuchanh/tudien/web/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanh/tudien/web/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuchanh/tudien/web/dictionary.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuchanh/tudien/web/dictionary.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/CustomerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/CustomerServicelmpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/CustomerServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/controller/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/controller/CustomerServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/src/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/web/WEB-INF/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/web/customer/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/web/customer/delete.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/web/customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/web/customer/edit.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/web/customer/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/web/customer/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../tongQuanUngDungWeb/baitap/product_discount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tongQuanUngDungWeb/baitap/product_discount/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/Blog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/Blog/.idea/libraries/mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/Blog/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/Blog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/Blog/src/controller/HomeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/connect-DB-MVC/connect-DB-MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/quanlyblog/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/quanlyblog/.idea/dictionaries/PLH.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/quanlyblog/.idea/libraries/Hibernate_5_4_2_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/quanlyblog/.idea/libraries/mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/quanlyblog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/quanlyblog/src/common/utils/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../casestudy/quanlyblog/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/codegym/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/codegym/service/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/product/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/out/production/danhsachsanpham/com/codegym/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/out/production/danhsachsanpham/com/codegym/service/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/web/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/baitap/danhsachsanpham/web/product/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MVCmodel/thuchanh/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,34 +40,12 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/achihoang/model/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
+            <state relative-caret-position="638">
               <caret line="37" column="29" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="29" />
-              <folding>
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#601#602#0" expanded="true" />
-                <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#724#725#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="e#875#876#0" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#989#990#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#965#966#0" expanded="true" />
-                <element signature="e#1091#1092#0" expanded="true" />
-                <element signature="e#1125#1126#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -88,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/achihoang/service/CustomerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="132">
               <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -100,12 +65,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/achihoang/service/CustomerServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="220">
+              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/achihoang/controller/CustomerServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-132">
+            <state relative-caret-position="66">
               <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
@@ -123,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/customer/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="440">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -244,9 +207,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/program/tomcat/apache-tomcat-9.0.21/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -352,101 +316,67 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561085906068</updated>
-      <workItem from="1561085909442" duration="3921000" />
+      <workItem from="1561085909442" duration="4263000" />
+      <workItem from="1561103069439" duration="157000" />
+      <workItem from="1561708116179" duration="227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3921000" />
+    <option name="totallyTimeSpent" value="4647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" sideWeight="0.5007072" side_tool="true" visible="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.25704697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5028329" side_tool="true" visible="true" weight="0.25704697" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/customer/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/achihoang/controller/CustomerServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/achihoang/model/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
+        <state relative-caret-position="638">
           <caret line="37" column="29" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="29" />
-          <folding>
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#989#990#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#1091#1092#0" expanded="true" />
-            <element signature="e#1125#1126#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/achihoang/service/CustomerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="132">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -454,14 +384,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/achihoang/controller/CustomerServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/customer/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/achihoang/service/CustomerServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="220">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
           </folding>
         </state>
       </provider>

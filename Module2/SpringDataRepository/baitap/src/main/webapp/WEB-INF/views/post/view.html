@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a href="/posts">Back to Post list</a>
+<h1>Post view</h1>
+<table border="1">
+    <tr>
+        <th>Title</th>
+        <th>Context</th>
+        <th>Category</th>
+        <th>DateCreated</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    <tr>
+        <td th:text="${viewpost.title}"></td>
+        <td th:text="${viewpost.context}"></td>
+        <td th:text="${viewpost.category}"></td>
+        <td th:text="${viewpost.dateCreated}"></td>
+        <td><a th:href="@{/post-edit/__${viewpost.id}__ }">Edit</a></td>
+        <td><a th:href="@{/post-delete/__${viewpost.id}__ }">Delete</a></td>
+    </tr>
+</table>
+</body>
+</html>

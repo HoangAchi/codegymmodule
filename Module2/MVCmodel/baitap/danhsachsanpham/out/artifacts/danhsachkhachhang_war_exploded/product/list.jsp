@@ -17,7 +17,7 @@
         <a href="/products?action=create">Create new product</a>
     </p>
     <input type="text">
-    <input type="submit" name="sreach">
+    <input type="submit" name="search" value="search">
     <table border="1">
         <tr>
             <td>Name</td>

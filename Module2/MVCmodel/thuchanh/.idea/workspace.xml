@@ -7,31 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2279a6f-fb8f-4cd8-a308-1e189e6d2fc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/web/product/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/Calculator/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/Calculator/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/Calculator/src/CalculatorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/Calculator/src/CalculatorServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/src/com/codegym/controller/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/src/com/codegym/controller/ProductServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/src/com/codegym/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/src/com/codegym/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/src/com/codegym/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/src/com/codegym/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/src/com/codegym/service/ProductSeviceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/src/com/codegym/service/ProductSeviceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tiente/web/converter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tiente/web/converter.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tiente/web/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tiente/web/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tudien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tudien/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tudien/web/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tudien/web/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tudien/web/dictionary.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/thuchanh/tudien/web/dictionary.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/CustomerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/CustomerServicelmpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/CustomerServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/controller/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/controller/CustomerServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegym/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/customer/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/customer/delete.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/customer/edit.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/customer/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/customer/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../tongQuanUngDungWeb/baitap/product_discount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tongQuanUngDungWeb/baitap/product_discount/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy/Blog/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy/Blog/.idea/libraries/mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy/Blog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy/Blog/web/achi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy/connect-DB-MVC/connect-DB-MVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/danhsachsanpham/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/danhsachsanpham/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/codegym/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/codegym/service/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/product/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/danhsachsanpham/out/production/danhsachsanpham/com/codegym/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/danhsachsanpham/out/production/danhsachsanpham/com/codegym/service/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/danhsachsanpham/web/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/danhsachsanpham/web/product/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +36,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codegym/controller/CustomerServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-726">
+            <state relative-caret-position="-3344">
               <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -61,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/customer/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="330">
               <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
@@ -106,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/customer/delete.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
+            <state relative-caret-position="514">
               <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
             </state>
           </provider>
@@ -182,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -199,12 +185,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -317,26 +305,29 @@
       <workItem from="1561017858588" duration="37000" />
       <workItem from="1561018159085" duration="70000" />
       <workItem from="1561018342242" duration="92000" />
+      <workItem from="1561539516208" duration="678000" />
+      <workItem from="1561541998111" duration="132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4259000" />
+    <option name="totallyTimeSpent" value="5069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4936351" visible="true" weight="0.26340482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49150142" visible="true" weight="0.27114093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.50636494" side_tool="true" visible="true" weight="0.26340482" />
+      <window_info id="Web" order="7" sideWeight="0.5084986" side_tool="true" visible="true" weight="0.27114093" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,6 +410,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/customer/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -447,13 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/customer/delete.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/customer/view.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -461,16 +452,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/customer/list.jsp">
+    <entry file="file://$PROJECT_DIR$/web/customer/delete.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        <state relative-caret-position="514">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codegym/controller/CustomerServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-726">
+        <state relative-caret-position="-3344">
           <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />

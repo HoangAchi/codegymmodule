@@ -1,6 +1,5 @@
-package utils;
+package common.utils;
 
-import com.mysql.cj.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
