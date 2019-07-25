@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6019f0f6-f042-4a31-833e-a98b17a94085" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/build/classes/java/main/com/achihoang/model/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/build/classes/java/main/com/achihoang/model/Post.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/baitap/build/libs/ormblog-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/baitap/build/libs/ormblog-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSDLandORM/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSDLandORM/thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/achihoang/service/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/achihoang/service/CustomerServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/production/danhsachkhachhang/com/achihoang/service/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPvaJSTL/baitap/danhsachkhachhang/out/production/danhsachkhachhang/com/achihoang/service/CustomerServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/codegym/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/WEB-INF/classes/com/codegym/service/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/out/artifacts/danhsachkhachhang_war_exploded/product/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/out/production/danhsachsanpham/com/codegym/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/out/production/danhsachsanpham/com/codegym/service/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/web/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVCmodel/baitap/danhsachsanpham/web/product/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MVCmodel/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVCmodel/thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/Blog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/0_create_database.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/1_use_database.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/2_create_table_categories.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/3_create_table_posts.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/4_create_table_users.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/5_create_table_comments.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/6_alter_table_posts.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/applicationfile/database/7__alter_table_comments.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/Blog/src/controller/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/Blog/src/controller/HomeServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/event/src/model/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/event/src/model/ConnectDatabase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/event/src/service/CategoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/event/src/service/ICategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/common/utils/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/common/utils/HibernateUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/quanlyblog/src/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../spingcontroller/thuchanh/uploadfile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spingcontroller/thuchanh/uploadfile/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/events" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/events" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -266,6 +227,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -368,12 +330,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564020034088</updated>
-      <workItem from="1564020035621" duration="5515000" />
+      <workItem from="1564020035621" duration="6113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5515000" />
+    <option name="totallyTimeSpent" value="6113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -398,7 +360,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
