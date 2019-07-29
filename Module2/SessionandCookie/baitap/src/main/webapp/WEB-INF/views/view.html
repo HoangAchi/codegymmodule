@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Product Detail</title>
+</head>
+<body>
+<p>
+    <a href="/home">Products list</a>
+</p>
+<th:block th:if="${message}">
+    <p th:text="${message}"></p>
+</th:block>
+<div style="display: flex">
+    <div>
+        <img th:src="${product.getProductImage()}" border=3 height=100 width=300>
+    </div>
+    <div>
+        <label>Product Name: </label>
+        <p th:text="${product.getProductName()}"></p><br>
+
+        <label>Product Price: </label>
+        <p th:text="${product.getProductPrice()}"></p><br>
+    </div>
+</div>
+<form>
+    <label>Product amount:</label>
+    <select name="amount">
+        <option value="0" selected>0</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+    </select><br>
+    <input type="submit" value="Add to cart">
+</form>
+</body>
+</html>

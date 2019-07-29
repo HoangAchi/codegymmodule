@@ -1,80 +1,51 @@
 package com.achihoang.model;
 
-import org.springframework.data.annotation.Id;
 
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.validation.constraints.NotEmpty;
-import javax.validation.constraints.Size;
+import javax.persistence.*;
 
+@Entity
+@Table(name = "products")
 public class Product {
+
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
-    @NotEmpty
-    @Column(nullable = false)
-    @Size(min = 5,max = 45)
-    private String name;
-    private String image;
-    private double priceOld;
-    private double priceNew;
-    private String description;
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int id;
 
-    public Product(Long id, String name, String image, double priceOld, double priceNew, String description) {
-        this.id = id;
-        this.name = name;
-        this.image = image;
-        this.priceOld = priceOld;
-        this.priceNew = priceNew;
-        this.description = description;
-    }
+    private String productName;
 
-    public Long getId() {
+    private long productPrice;
+
+    private String productImage;
+
+    public int getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(int id) {
         this.id = id;
     }
 
-    public String getName() {
-        return name;
+    public String getProductName() {
+        return productName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setProductName(String productName) {
+        this.productName = productName;
     }
 
-    public String getImage() {
-        return image;
+    public long getProductPrice() {
+        return productPrice;
     }
 
-    public void setImage(String image) {
-        this.image = image;
+    public void setProductPrice(long productPrice) {
+        this.productPrice = productPrice;
     }
 
-    public double getPriceOld() {
-        return priceOld;
+    public String getProductImage() {
+        return productImage;
     }
 
-    public void setPriceOld(double priceOld) {
-        this.priceOld = priceOld;
-    }
-
-    public double getPriceNew() {
-        return priceNew;
-    }
-
-    public void setPriceNew(double priceNew) {
-        this.priceNew = priceNew;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
+    public void setProductImage(String productImage) {
+        this.productImage = productImage;
     }
 }
