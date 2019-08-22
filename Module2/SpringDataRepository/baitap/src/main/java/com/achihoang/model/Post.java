@@ -62,7 +62,6 @@ public class Post {
         this.category = category;
     }
 
-
     public Date getDateCreated() {
         return dateCreated;
     }

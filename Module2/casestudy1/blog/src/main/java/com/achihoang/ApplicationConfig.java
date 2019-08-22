@@ -1,12 +1,18 @@
 package com.achihoang;
 
+import com.achihoang.service.CategoryService;
+import com.achihoang.service.CategoryServiceImpl;
+import com.achihoang.service.PostService;
+import com.achihoang.service.PostServiceImpl;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
+import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.support.ResourceBundleMessageSource;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.data.web.config.EnableSpringDataWebSupport;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
@@ -44,6 +50,16 @@ public class ApplicationConfig extends WebMvcConfigurerAdapter implements Applic
         this.applicationContext = applicationContext;
     }
 
+    @Bean
+    public PostService postService() {
+        return new PostServiceImpl();
+    }
+
+    @Bean
+    public CategoryService categoryService() {
+        return new CategoryServiceImpl();
+    }
+
     //Thymeleaf Configuration
     @Bean
     public SpringResourceTemplateResolver templateResolver() {
@@ -69,6 +85,13 @@ public class ApplicationConfig extends WebMvcConfigurerAdapter implements Applic
         return viewResolver;
     }
 
+    @Bean
+    public MessageSource messageSource() {
+        ResourceBundleMessageSource messageSource = new ResourceBundleMessageSource();
+        messageSource.setBasenames("ValidationMessages");
+        return messageSource;
+    }
+
     //JPA configuration
     @Bean
     @Qualifier(value = "entityManager")
@@ -92,7 +115,7 @@ public class ApplicationConfig extends WebMvcConfigurerAdapter implements Applic
     public DataSource dataSource() {
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
         dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
-        dataSource.setUrl("jdbc:mysql://localhost:3306/blogmanager");
+        dataSource.setUrl("jdbc:mysql://localhost:3306/casestudy2");
         dataSource.setUsername("root");
         dataSource.setPassword("");
         return dataSource;

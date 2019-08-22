@@ -23,21 +23,22 @@ public class CategoryController {
     private PostService postService;
 
     @GetMapping("/categories")
-    public ModelAndView listProvinces(){
+    public ModelAndView listProvinces() {
         Iterable<Category> categories = categoryService.findAll();
         ModelAndView modelAndView = new ModelAndView("/category/list");
         modelAndView.addObject("listcategory", categories);
         return modelAndView;
     }
+
     @GetMapping("/create-categories")
-    public ModelAndView showCreateForm(){
+    public ModelAndView showCreateForm() {
         ModelAndView modelAndView = new ModelAndView("/category/create");
         modelAndView.addObject("createcategory", new Category());
         return modelAndView;
     }
 
     @PostMapping("/create-categories")
-    public ModelAndView saveProvince(@ModelAttribute("category") Category category){
+    public ModelAndView saveProvince(@ModelAttribute("category") Category category) {
         categoryService.save(category);
 
         ModelAndView modelAndView = new ModelAndView("/category/create");
@@ -47,21 +48,21 @@ public class CategoryController {
     }
 
     @GetMapping("/edit-categories/{id}")
-    public ModelAndView showEditForm(@PathVariable Long id){
+    public ModelAndView showEditForm(@PathVariable Long id) {
         Category category = categoryService.findById(id);
-        if(category != null) {
+        if (category != null) {
             ModelAndView modelAndView = new ModelAndView("/category/edit");
             modelAndView.addObject("editcategory", category);
             return modelAndView;
 
-        }else {
+        } else {
             ModelAndView modelAndView = new ModelAndView("/error.404");
             return modelAndView;
         }
     }
 
     @PostMapping("/edit-categories")
-    public ModelAndView updateProvince(@ModelAttribute("category") Category category){
+    public ModelAndView updateProvince(@ModelAttribute("category") Category category) {
         categoryService.save(category);
         ModelAndView modelAndView = new ModelAndView("/category/edit");
         modelAndView.addObject("editcategory", category);
@@ -70,29 +71,29 @@ public class CategoryController {
     }
 
     @GetMapping("/delete-categories/{id}")
-    public ModelAndView showDeleteForm(@PathVariable Long id){
+    public ModelAndView showDeleteForm(@PathVariable Long id) {
         Category category = categoryService.findById(id);
-        if(category != null) {
+        if (category != null) {
             ModelAndView modelAndView = new ModelAndView("/category/delete");
             modelAndView.addObject("deletecategory", category);
             return modelAndView;
 
-        }else {
+        } else {
             ModelAndView modelAndView = new ModelAndView("/error.404");
             return modelAndView;
         }
     }
 
     @PostMapping("/delete-categories")
-    public String deleteProvince(@ModelAttribute("category") Category category){
+    public String deleteProvince(@ModelAttribute("category") Category category) {
         categoryService.remove(category.getId());
         return "redirect:categories";
     }
 
     @GetMapping("/view-categories/{id}")
-    public ModelAndView viewProvince(@PathVariable("id") Long id){
+    public ModelAndView viewProvince(@PathVariable("id") Long id) {
         Category category = categoryService.findById(id);
-        if(category == null){
+        if (category == null) {
             return new ModelAndView("/error.404");
         }
         Iterable<Post> posts = postService.findAllByCategory(category);

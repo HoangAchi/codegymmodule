@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org" >
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <title>WebMag HTML Template</title>
+
+<!--    &lt;!&ndash; Google font &ndash;&gt;-->
+<!--    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:700%7CNunito:300,600" rel="stylesheet">-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=vietnamese" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link type="text/css" rel="stylesheet" th:href="@{/webmag/css/bootstrap.min.css}"/>
+
+    <!-- Font Awesome Icon -->
+    <link rel="stylesheet" th:href="@{/webmag/css/font-awesome.min.css}">
+
+    <!-- Custom stlylesheet -->
+    <link type="text/css" rel="stylesheet" th:href="@{/webmag/css/style.css}"/>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+
+<!-- Header -->
+<header id="header">
+    <!-- Nav -->
+    <div id="nav">
+        <!-- Main Nav -->
+        <div id="nav-fixed">
+            <div class="container">
+                <!-- logo -->
+                <div class="nav-logo">
+                    <a th:href="@{/home}" class="logo"><img th:src="@{/webmag/img/logo.png}" alt=""></a>
+                </div>
+                <!-- /logo -->
+
+                <!-- nav -->
+                <ul class="nav-menu nav navbar-nav">
+                    <th:block th:each="Cate : ${listCategory}">
+                        <li class="cat-1"><a th:href="@{/category/__${Cate.id}__}" th:text="${Cate.name}"></a></li>
+
+                    </th:block>
+<!--                    <li class="cat-1"><a th:href="@{/category/WebDesign}">Web Design</a></li>-->
+<!--                    <li class="cat-2"><a th:href="@{/category/JavaScript}">JavaScript</a></li>-->
+<!--                    <li class="cat-3"><a th:href="@{/category/Css}">Css</a></li>-->
+<!--                    <li class="cat-4"><a th:href="@{/category/Jquery}">Jquery</a></li>-->
+
+                </ul>
+                <!-- /nav -->
+
+                <!-- search & aside toggle -->
+                <div class="nav-btns">
+                    <button class="aside-btn"><i class="fa fa-bars"></i></button>
+                    <button class="search-btn"><i class="fa fa-search"></i></button>
+                    <form>
+                        <div class="search-form">
+                            <input class="search-input" type="text" name="search" placeholder="Enter Your Search ...">
+                            <!--                            <input type="submit" value="search">-->
+                            <button class="search-close"><i class="fa fa-times"></i></button>
+                        </div>
+                    </form>
+                </div>
+                <!-- /search & aside toggle -->
+            </div>
+        </div>
+        <!-- /Main Nav -->
+
+        <!-- Aside Nav -->
+        <div id="nav-aside">
+            <!-- nav -->
+            <div class="section-row">
+                <ul class="nav-aside-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="../../../../../../../../../../../download/webmag/about.html">About Us</a></li>
+                    <li><a href="#">Join Us</a></li>
+                    <li><a href="#">Advertisement</a></li>
+                    <li><a href="../../../../../../../../../../../download/webmag/contact.html">Contacts</a></li>
+                    Language: <a href="?lang=en">English</a> | <a href="?lang=vi_VN">VietNam</a>
+                </ul>
+            </div>
+            <!-- /nav -->
+            <!-- social links -->
+            <div class="section-row">
+                <h3>Follow us</h3>
+                <ul class="nav-aside-social">
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                </ul>
+            </div>
+            <!-- /social links -->
+
+            <!-- aside nav close -->
+            <button class="nav-aside-close"><i class="fa fa-times"></i></button>
+            <!-- /aside nav close -->
+        </div>
+        <!-- Aside Nav -->
+    </div>
+    <!-- /Nav -->
+</header>
+<!-- /Header -->
+
+<!-- section -->
+<div class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h2 th:utext="#{home.title}"></h2>
+                </div>
+            </div>
+            <th:block th:each="postTop : ${listTop6}">
+                <!-- post -->
+                <div class="col-md-4">
+                    <div class="post">
+                        <a class="post-img" th:href="@{/webmag/blog-post.html}"><img
+                                th:src="@{'/image/'+${postTop.image}}"
+                                alt=""></a>
+                        <div class="post-body">
+                            <div class="post-meta">
+                                <a class="post-category cat-1" th:href="@{/webmag/category.html}"
+                                   th:text="${postTop.category.name}"></a>
+                                <span class="post-date" th:text="${postTop.createDate}"></span>
+                            </div>
+                            <h3 class="post-title"><a th:href="@{/webmag/blog-post.html}"
+                                                      th:text="${postTop.introduce}"></a></h3>
+                        </div>
+                    </div>
+                </div>
+            </th:block>
+
+        </div>
+    </div>
+</div>
+
+
+<!-- section -->
+<div class="section section-grey">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title text-center">
+                    <h2>Featured Posts</h2>
+                </div>
+            </div>
+
+            <!-- post -->
+            <th:block th:each="listtop3a : ${listTop3}">
+                <div class="col-md-4">
+                    <div class="post">
+                        <a class="post-img" th:href="@{/webmag/blog-post.html}"><img
+                                th:src="@{'/image/'+${listtop3a.image}}" alt=""></a>
+                        <div class="post-body">
+                            <div class="post-meta">
+                                <a class="post-category cat-2"
+                                   th:href="@{/webmag/category.html}" th:text="${listtop3a.category.name}"></a>
+                                <span class="post-date" th:text="${listtop3a.createDate}"></span>
+                            </div>
+                            <h3 class="post-title"><a
+                                    th:href="@{/webmag/blog-post.html}" th:text="${listtop3a.introduce}"></a></h3>
+                        </div>
+                    </div>
+                </div>
+            </th:block>
+            <!-- /post -->
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /section -->
+
+<!-- section -->
+<div class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-8">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-title">
+                            <h2>Most Read</h2>
+                        </div>
+                    </div>
+                    <!-- post -->
+                    <th:block th:each="post : ${list}">
+                        <div class="col-md-12">
+                            <div class="post post-row">
+                                <a class="post-img" th:href="@{/webmag/blog-post.html}"><img
+                                        th:src="@{'/image/' + ${post.image}}" alt=""></a>
+                                <div class="post-body">
+                                    <div class="post-meta">
+                                        <a class="post-category cat-2" th:href="@{/webmag/category.html}"
+                                           th:text="${post.category.name}"></a>
+                                        <span class="post-date" th:text="${post.createDate}"></span>
+                                    </div>
+                                    <h3 class="post-title"><a th:href="@{/webmag/blog-post.html}"
+                                                              th:text="${post.introduce}"></a></h3>
+                                    <p th:text="${post.context}"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </th:block>
+                    <div>
+                        <a th:href="@{'/home'(page=${list.number - 1})}" th:if="${list.hasPrevious()}">Previous</a>
+                        <span th:text="${list.number + 1}"></span>/<span th:text="${list.totalPages}"></span>
+                        <a th:href="@{'/home'(page=${list.number + 1})}" th:if="${list.hasNext()}">Next</a>
+                    </div>
+                    <!-- /post -->
+                </div>
+            </div>
+
+            <!-- catagories -->
+            <div class="col-md-4">
+                <div class="aside-widget">
+                    <div class="section-title">
+                        <h2>Categories</h2>
+                    </div>
+                    <div class="category-widget">
+                        <ul>
+                            <th:block th:each="Catego : ${listCategory}">
+                                <li><a th:href="@{/category/__${Catego.id}__}" th:text="${Catego.name}" class="cat-1"></a></li>
+                            </th:block>
+<!--                            <li><a th:href="@{/category/WebDesign}" class="cat-1">Web Design<span>340</span></a></li>-->
+<!--                            <li><a th:href="@{/category/JavaScript}" class="cat-2">JavaScript<span>74</span></a></li>-->
+<!--                            <li><a th:href="@{/category/Jquery}" class="cat-4">JQuery<span>41</span></a></li>-->
+<!--                            <li><a th:href="@{/category/CSS}" class="cat-3">CSS<span>35</span></a></li>-->
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- /catagories -->
+
+            <!-- tags -->
+            <div class="aside-widget">
+                <div class="tags-widget">
+                    <ul>
+                        <li><a href="#">Chrome</a></li>
+                        <li><a href="#">CSS</a></li>
+                        <li><a href="#">Tutorial</a></li>
+                        <li><a href="#">Backend</a></li>
+                        <li><a href="#">JQuery</a></li>
+                        <li><a href="#">Design</a></li>
+                        <li><a href="#">Development</a></li>
+                        <li><a href="#">JavaScript</a></li>
+                        <li><a href="#">Website</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- /tags -->
+        </div>
+    </div>
+    <!-- /row -->
+</div>
+<!-- /container -->
+</div>
+<!-- /section -->
+
+<!-- Footer -->
+<footer id="footer">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-5">
+                <div class="footer-widget">
+                    <div class="footer-logo">
+                        <a href="index.html" class="logo"><img
+                                th:src="@{/webmag/img/logo.png}" alt=""></a>
+                    </div>
+                    <ul class="footer-nav">
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Advertisement</a></li>
+                    </ul>
+                    <div class="footer-copyright">
+								<span>&copy;
+                                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i
+                                            class="fa fa-heart-o" aria-hidden="true"></i> by <a
+                                            href="https://colorlib.com" target="_blank">Colorlib</a>
+                                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="footer-widget">
+                            <h3 class="footer-title">About Us</h3>
+                            <ul class="footer-links">
+                                <li><a href="../../../../../../../../../../../download/webmag/about.html">About Us</a>
+                                </li>
+                                <li><a href="#">Join Us</a></li>
+                                <li><a href="../../../../../../../../../../../download/webmag/contact.html">Contacts</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="footer-widget">
+                            <h3 class="footer-title">Catagories</h3>
+                            <ul class="footer-links">
+                                <li><a href="../../../../../../../../../../../download/webmag/category.html">Web
+                                    Design</a></li>
+                                <li>
+                                    <a href="../../../../../../../../../../../download/webmag/category.html">JavaScript</a>
+                                </li>
+                                <li><a href="../../../../../../../../../../../download/webmag/category.html">Css</a>
+                                </li>
+                                <li><a href="../../../../../../../../../../../download/webmag/category.html">Jquery</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="footer-widget">
+                    <h3 class="footer-title">Join our Newsletter</h3>
+                    <div class="footer-newsletter">
+                        <form>
+                            <input class="input" type="email" name="newsletter" placeholder="Enter your email">
+                            <button class="newsletter-btn"><i class="fa fa-paper-plane"></i></button>
+                        </form>
+                    </div>
+                    <ul class="footer-social">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</footer>
+<!-- /Footer -->
+
+<!-- jQuery Plugins -->
+<script th:src="@{/webmag/js/jquery.min.js}"></script>
+<script th:src="@{/webmag/js/bootstrap.min.js}"></script>
+<script th:src="@{/webmag/js/main.js}"></script>
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Post customer</title>
+</head>
+<body>
+<h1>Post customer</h1>
+<h2>Are you sure?</h2>
+<p>
+    <a th:href="@{/listPost}">Post list</a>
+</p>
+<form th:action="@{/deletePost}" th:object="${delete}" method="post">
+    <input th:type="hidden" name="id" th:field="*{id}">
+    <table>
+        <tr>
+            <td>Introduce:</td>
+            <td th:text="${delete.introduce}"></td>
+        </tr>
+        <tr>
+            <td>Title:</td>
+            <td th:text="${delete.title}"></td>
+        </tr>
+        <tr>
+            <td>Context:</td>
+            <td th:text="${delete.context}"></td>
+        </tr>
+        <tr>
+            <td>Category:</td>
+            <td th:text="${delete.category}"></td>
+        </tr>
+        <tr>
+            <td>Image:</td>
+            <td th:text="${delete.image}"></td>
+        </tr>
+        <tr>
+            <td>Creator:</td>
+            <td th:text="${delete.creator}"></td>
+        </tr>
+        <tr>
+            <td>FinalEditor:</td>
+            <td th:text="${delete.finalEditor}"></td>
+        </tr>
+        <tr>
+            <td>DateCreate:</td>
+            <td th:text="${delete.dateCreate}"></td>
+        </tr>
+        <tr>
+            <td>DateLast</td>
+            <td th:text="${delete.dateLast}"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Delete post"></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>

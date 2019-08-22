@@ -2,8 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d54e3670-b458-493c-a65e-a92c5aaae681" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SessionandCookie/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SessionandCookie/baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SessionandCookie/baitap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SessionandCookie/baitap1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitap/src/main/java/com/achihoang/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../baitap/src/main/java/com/achihoang/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitap/src/main/java/com/achihoang/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../baitap/src/main/java/com/achihoang/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy/Blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/controller/CategoryServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/controller/CommentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/controller/HomeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/controller/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/controller/LogoutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/controller/PostServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/controller/UserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/model/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/model/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/model/ConnectDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/model/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/service/category/CategoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/service/category/ICategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/service/comment/CommentImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/service/comment/IComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/service/post/IPost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/service/post/PostImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/service/user/Hashing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/service/user/IUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy/Blog/out/production/Blog/service/user/UserImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../casestudy/events" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy/events" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../validation/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../validation/baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/controller/BlogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/repository/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/blog/src/main/java/com/achihoang/repository/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../casestudy1/giohang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../casestudy1/giohang/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -47,16 +87,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/achihoang/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1392">
+            <state relative-caret-position="1562">
               <caret line="84" column="30" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#783#784#0" expanded="true" />
                 <element signature="e#831#832#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/create.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -129,10 +178,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -142,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,6 +317,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,16 +442,18 @@
       <workItem from="1563930396564" duration="1043000" />
       <workItem from="1563935208949" duration="87000" />
       <workItem from="1564044607928" duration="28000" />
+      <workItem from="1565340041612" duration="1670000" />
+      <workItem from="1565924783737" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20460000" />
+    <option name="totallyTimeSpent" value="22134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29127517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -610,13 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/create.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/create.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -671,13 +714,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/achihoang/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
+        <state relative-caret-position="1562">
           <caret line="84" column="30" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#783#784#0" expanded="true" />
             <element signature="e#831#832#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
         </state>
       </provider>
     </entry>

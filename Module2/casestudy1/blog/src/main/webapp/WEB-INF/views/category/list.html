@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Categories</title>
+</head>
+<body>
+<a th:href="@{/createCategory}">create</a>
+<h1>Category</h1>
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    <th:block th:each="category : ${list}">
+        <tr>
+            <td><a th:href="@{viewCategory/__${category.id}__}" th:text="${category.name}"></a></td>
+            <td><a th:href="@{/editCategory/__${category.id}__ }">Edit</a></td>
+            <td><a th:href="@{/deleteCategory/__${category.id}__ }">Delete</a></td>
+        </tr>
+    </th:block>
+</table>
+<div>
+    <a th:href="@{'/listCategory'(page=${list.number - 1})}" th:if="${list.hasPrevious()}">Previous</a>
+    <span th:text="${list.number + 1}"></span>/<span th:text="${list.totalPages}"></span>
+    <a th:href="@{'/listCategory'(page=${list.number + 1})}" th:if="${list.hasNext()}">Next</a>
+</div>
+</body>
+</html>

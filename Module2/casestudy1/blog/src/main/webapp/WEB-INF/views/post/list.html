@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>List Post</title>
+</head>
+<body>
+<a th:href="@{/createPost}">create Post</a>
+<h1>Post</h1>
+<table border="1">
+    <tr>
+        <td>Introduce</td>
+        <td>Title</td>
+        <td>Content</td>
+        <td>Image</td>
+        <td>Category Name</td>
+        <td>Creator</td>
+        <td>FinalEditor</td>
+        <td>DateCreate</td>
+        <td>DateLast</td>
+        <td>Edit</td>
+        <td>Delete</td>
+    </tr>
+    <th:block th:each="post : ${list}">
+        <tr>
+            <td th:text="${post.introduce}"></td>
+            <td th:text="${post.title}"></td>
+            <td th:text="${post.context}"></td>
+            <td th:text="${post.image}"></td>
+            <td th:text="${post.creator}"></td>
+            <td th:text="${post.finalEditor}"></td>
+            <td th:text="${post.dateCreate}"></td>
+            <td th:text="${post.dateLast}"></td>
+<!--            <td><img th:src="upload/${post.image}" width="100%" ></td>-->
+            <td th:text="${post.category.name}"></td>
+            <td><a th:href="@{/editPost/__${post.id}__ }">Edit</a></td>
+            <td><a th:href="@{/deletePost/__${post.id}__ }">Delete</a></td>
+        </tr>
+    </th:block>
+</table>
+<div>
+    <a th:href="@{'/listPost'(page=${list.number - 1})}" th:if="${list.hasPrevious()}">Previous</a>
+    <span th:text="${list.number + 1}"></span>/<span th:text="${list.totalPages}"></span>
+    <a th:href="@{'/listPost'(page=${list.number + 1})}" th:if="${list.hasNext()}">Next</a>
+</div>
+</body>
+</html>
